@@ -65,7 +65,7 @@
 
 1. 安装 UE4SS
 
-   去 [官网下载](https://github.com/UE4SS-RE/RE-UE4SS/releases) 最新的 `UE4SS_v3.x.x` 压缩包，解压放到 `\游戏安装目录\Wandering_Sword\Binaries\Win64\ue4ss\` 文件夹即可完成安装。
+   去 [官网下载](https://github.com/UE4SS-RE/RE-UE4SS/releases) 最新的 `UE4SS_v3.x.x` 压缩包，解压放到 `\游戏安装目录\Wandering_Sword\Binaries\Win64\ue4ss\` 文件夹即可完成安装。按官方的安装方法，你也可以不创建 `ue4ss` 文件夹，直接放 `Win64` 下，这里为了方便卸载，直接创建一个 `ue4ss` 并解压到里面。
    
    > 确保 `UE4SS.dll` 路径为：`\游戏安装目录\Wandering_Sword\Binaries\Win64\ue4ss\UE4SS.dll`，可以对比一下。
 
