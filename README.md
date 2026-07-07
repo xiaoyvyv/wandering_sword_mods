@@ -1,4 +1,4 @@
-# 逸剑风云录 UE4SS Mods
+# 逸剑风云决 UE4SS Mods
 
 一些为《逸剑风云决》制作的 UE4SS Lua MOD，用于改善游戏体验和方便调试。
 
