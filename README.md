@@ -56,42 +56,44 @@
 
 ## 安装要求
 
-- 《逸剑风云录》
+- 安装《逸剑风云决》
 - UE4SS 指定游戏引擎 UE4 26.2
 
 请确保已经正确安装 UE4SS。
 
 ## 安装方法
 
-1. 安装 UE4SS。
+1. 安装 UE4SS
+
 2. 打开游戏目录：
 
-```
-Wandering_Sword/
-└── Binaries/
-    └── Win64/
-        └── ue4ss/
-```
+    ```
+    Wandering_Sword/
+    └── Binaries/
+        └── Win64/
+            └── ue4ss/
+    ```
 
 3. 将需要使用的 MOD 文件夹复制到：
 
-```
-ue4ss/Mods/
-```
+    ```
+    ue4ss/Mods/
+    ```
+    
+    例如：
+    
+    ```
+    ue4ss/
+    └── Mods/
+        ├── YuAutoSaveMod/
+        ├── YuCompareLootMod/
+        ├── YuDebugTraceMod/
+        └── YuSleepMusicMod/
+        └── .../
+    ```
+    
+    然后在 `mods.txt` 和 `mods.json` 中启用
 
-例如：
-
-```
-ue4ss/
-└── Mods/
-    ├── YuAutoSaveMod/
-    ├── YuCompareLootMod/
-    ├── YuDebugTraceMod/
-    └── YuSleepMusicMod/
-    └── .../
-```
-
-然后在 `mods.txt` 和 `mods.json` 中启用
 
 4. 启动游戏即可。
 
