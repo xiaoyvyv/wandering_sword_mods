@@ -35,6 +35,10 @@
 - 在客栈休息结束时时播放公鸡叫。
 - 改善休息场景的沉浸感。
 
+注意：该 MOD 需要导入额外的音乐资产，额外需要以下步骤
+
+1. 下载 [MusicMod.pak](LogicMods/MusicMod.pak)，千万不要改名
+2. 将下载好的 `MusicMod.pak` 放到 `\游戏安装目录\Wandering_Sword\Content\Paks\LogicMods\` 中即可，如果没有 `LogicMods` 文件夹自己新建一个（这个目录一般安装好了 `UE4SS` 启动一次游戏会自动生成）。
 ---
 
 ### YuDebugTraceMod
