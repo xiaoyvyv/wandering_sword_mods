@@ -12,14 +12,6 @@
         "mod_enabled": true
     },
     {
-        "mod_name": "SplitScreenMod",
-        "mod_enabled": false
-    },
-    {
-        "mod_name": "LineTraceMod",
-        "mod_enabled": false
-    },
-    {
         "mod_name": "BPML_GenericFunctions",
         "mod_enabled": true
     },
